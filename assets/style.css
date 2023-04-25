@@ -84,6 +84,7 @@ body {
 	font-weight: 800;
 	font-style: italic;
 	width: 60%;
+	font-size: 1.3rem !important; 
 }
 #about-me p {
 	width: 80%;
@@ -103,7 +104,7 @@ body {
 }
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
 	color: #fff;
-	background-color: #BEB45A;
+	background-color: #706a31;
 	border-radius:0 ;
 }
 .nav-pills .nav-link {
